@@ -1,0 +1,3 @@
+﻿  laba1_structData.cpp
+C:\Users\pereb\source\repos\laba1_structData\laba1_structData.cpp(11,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  laba1_structData.vcxproj -> C:\Users\pereb\source\repos\laba1_structData\x64\Debug\laba1_structData.exe
